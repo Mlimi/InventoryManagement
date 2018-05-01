@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\bin\Debug\Product Order Management.exe.config
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\bin\Debug\Product Order Management.exe
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\bin\Debug\Product Order Management.pdb
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product Order Management.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product_Order_Management.frmMain.resources
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product_Order_Management.Properties.Resources.resources
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product Order Management.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product Order Management.exe
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product Order Management.pdb
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product_Order_Management.frmSalesStatistics.resources
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product_Order_Management.frmAddNewProduct.resources
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product_Order_Management.frmLoadProducts.resources
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product_Order_Management.DeleteProduct.resources
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product_Order_Management.frmFindProduct.resources
+C:\Users\ASUS\Documents\CS 391\C# Projects\Product Order Management\Product Order Management\obj\Debug\Product_Order_Management.AboutFrom.resources
